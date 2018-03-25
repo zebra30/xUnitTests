@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\DemoLibrary\bin\Debug\DemoLibrary.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\DemoLibrary\bin\Debug\DemoLibrary.pdb
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\DemoLibrary\obj\Debug\DemoLibrary.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\DemoLibrary\obj\Debug\DemoLibrary.pdb

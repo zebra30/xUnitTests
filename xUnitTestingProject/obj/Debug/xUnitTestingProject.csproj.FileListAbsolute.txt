@@ -1,0 +1,17 @@
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.abstractions.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.runner.reporters.net452.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.runner.utility.net452.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xUnitTestingProject.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xUnitTestingProject.pdb
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\DemoLibrary.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.assert.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.core.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.execution.desktop.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\DemoLibrary.pdb
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.assert.xml
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.core.xml
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\bin\Debug\xunit.execution.desktop.xml
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\obj\Debug\xUnitTestingProject.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\obj\Debug\xUnitTestingProject.dll
+c:\users\alex\documents\visual studio 2015\Projects\xUnitTesting\xUnitTestingProject\obj\Debug\xUnitTestingProject.pdb
